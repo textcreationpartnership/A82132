@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the commoners of England, to His Excellency the Lord General Cromwel: concerning the crown, government, liberty, and priviledges of the people; and the setting of the land free from all taxes, slavery, and oppressions; according to the engagements, vowes, and promises, both of officers and souldiers. Likewise his excellencies resolution, to remove all burdens and oppressions from the people; to advance trading; to pluck down tyanny [sic]; and to purge and cast out all those, who are enemies to the peace and freedom of this nation. Ordered to be forthwith printed and published; and appointed to be sent into all counties in England and Wales.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82132</idno>
+            <idno type="STC">Wing D654A</idno>
+            <idno type="STC">Thomason E654_10</idno>
+            <idno type="STC">ESTC R205926</idno>
+            <idno type="EEBO-CITATION">99865149</idno>
+            <idno type="PROQUEST">99865149</idno>
+            <idno type="VID">117386</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82132)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117386)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E654[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the commoners of England, to His Excellency the Lord General Cromwel: concerning the crown, government, liberty, and priviledges of the people; and the setting of the land free from all taxes, slavery, and oppressions; according to the engagements, vowes, and promises, both of officers and souldiers. Likewise his excellencies resolution, to remove all burdens and oppressions from the people; to advance trading; to pluck down tyanny [sic]; and to purge and cast out all those, who are enemies to the peace and freedom of this nation. Ordered to be forthwith printed and published; and appointed to be sent into all counties in England and Wales.</title>
+                  <author>England and Wales. Parliament. Proceedings. 1652. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Identified as Wing D654A on UMI microfilm set "Early English Books, 1641-1700".</note>
+                  <note>Annotation on Thomason copy: The "2" in the imprint date has been crossed out and date altered to 1651; "Feb: 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117386:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE COMMONERS of ENGLAND, <hi>TO HIS</hi> EXCELLENCY The Lord General CROMWEL: <hi>CONCERNING</hi>
+            </p>
+            <p>The Crown, Government, Liberty, and Priviledges of the People; and the ſetting of the Land free from all Taxes, Slavery, and Op<g ref="char:EOLhyphen"/>preſſions; according to the Engagements, Vowes, and Promiſes, both of Offi<g ref="char:EOLhyphen"/>cers and Souldiers.</p>
+            <p>Likewiſe his Excellencies Reſolution, to remove all Burdens and Oppreſſions from the People; to advance Trading; to pluck down Tyanny; and to purge and caſt out all thoſe, who are Enemies to the Peace and Freedom of this <hi>Nation.</hi>
+            </p>
+            <p>
+               <hi>ORdered to be forthwith printed and publiſhed; And appoint<g ref="char:EOLhyphen"/>ed to be ſent into all</hi> Counties <hi>in</hi> England <hi>and</hi> Wales.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>don,</hi> Printed for <hi>G. HORTON</hi> 1652. <add>feb: 13 1651</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117386:2"/>
+            <pb n="3" facs="tcp:117386:2"/>
+            <head>A Declaration of the Commoners of Eng<g ref="char:EOLhyphen"/>land to his Excellency the Lord General Cromwel.</head>
+            <p>THe Government of a common-wealth is the uniting of the people of a Nation into one heart and mind; And bleſſed is that People, whoſe Earthly Government is the Law of common Righteouſneſs. When Iſrael was under a common<g ref="char:EOLhyphen"/>wealths Government, they were a terror to all Op<g ref="char:EOLhyphen"/>preſſing Kings in all Nations of the World; and ſo will England be, if this righteous Law become our Governor: But when the Officers of Iſrael began to be covetous and proud, they made a breach; and then the Government was altered, and fell into the hand of Kings like other Nations, and then they fled before their Enemies and were ſcattered. But if we look upon the cuſtoms of the Law it ſelf, it is the ſame it was in the Kings dayes, onely the name is al<g ref="char:EOLhyphen"/>ter'd; as if the Commoners of England had paid their Taxes, Free-quarter, and ſhed their bloud, not to reform, but to baptize the Law into a new name,
+<pb n="4" facs="tcp:117386:3"/>from Kingly Law, to State Law; by reaſon where<g ref="char:EOLhyphen"/>of the ſpirit of diſcontent is ſtrengthned, to increaſe more Suits of Law, then formerly was known to be And ſo as the Sword pulls down Kingly power with one hand, the Kings old Law builds up Mo<g ref="char:EOLhyphen"/>narchy with the other.</p>
+            <p>And whereas if an Army be raiſed to caſt out Kingly op<g ref="char:EOLhyphen"/>preſſion, and if the Hea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of that Army promiſe a <hi>Common<g ref="char:EOLhyphen"/>wealths Freedom</hi> to the <hi>oppreſſed people,</hi> if in caſe they will aſ<g ref="char:EOLhyphen"/>ſiſt with perſon and purſe; and if the people do aſſiſt, and prevail over the Tyrant, thoſe Officers are bound by the Law of Juſtice (who is God) to make good their Engage<g ref="char:EOLhyphen"/>ments: And if they do not ſet the Land free from the bran<g ref="char:EOLhyphen"/>ches of the <hi>Kingly oppreſſion,</hi> but reſerve ſome part of the <hi>Kingly power</hi> to advance their own particular Intereſt, whereby ſome of their friends are left under as great ſlave<g ref="char:EOLhyphen"/>ry to them, as they were under the Kings; Thoſe Officers are not faithful <hi>Commonwealths ſouldiers,</hi> they are worſe Ty<g ref="char:EOLhyphen"/>rant and Thieves then the King they caſt out; and that <hi>ho<g ref="char:EOLhyphen"/>nor</hi> they ſeemed to get by their Victories over the <hi>Common wealths Oppreſſor</hi> they loſe again, by breaking promiſe and engagement to their opreſſed friends who did aſſiſt them. For what difference is there between a profeſſed Tyrant, that declares himſelf a Tyrant in words, laws and deeds, as all <hi>Conquerors</hi> do, and him who promiſes to free me from the power of the Tyrant if I'le aſſiſt him; and when I have ſpent my eſtate and bloud, and expect my bargain by his Engagements to me, he ſits himſelf down in the Tyrants chair, and takes the poſſeſſion of the Land to himſelf, and calls it his, and none of mine, and tells me he cannot in <hi>con<g ref="char:EOLhyphen"/>ſcience</hi> let me enjoy the freedom of the Earth with him, be<g ref="char:EOLhyphen"/>cauſe it is another mans right?</p>
+            <pb n="5" facs="tcp:117386:3"/>
+            <p> Such a ſouldier as this Engagement-breaker is neither a friend to the Creation; nor to a particular <hi>Commonwealth,</hi> but a ſelf lover, and a hypocrite; for he did not fight to ſet the Earth free from the bondage of the Oppreſſor, as he pretended by his Engagements; but to remove that pow<g ref="char:EOLhyphen"/>er out of the others <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and into his own. And this is juſt like the Beaſts who fight for maſtery and keeps it, not relieve<g ref="char:EOLhyphen"/>ing, but ſtill Lording and Kinging over the weak. Theſe are Monarchical ſouldiers, not <hi>Common-wealths</hi> ſouldiers; and ſuch a ſouldier is a murderer, and his warfare is unlaw<g ref="char:EOLhyphen"/>full. But ſouldiers of true noble ſpirits will help the week, and ſet the Oppreſſed free, and delight to ſee the <hi>Common<g ref="char:EOLhyphen"/>wealth</hi> flouriſh in freedom, as well as their own gardens.</p>
+            <p>There is none of this true Nobility in a Monarchical Ar<g ref="char:EOLhyphen"/>my, for they are all ſelf-lovers; the beſt is as a bryar, and the moſt upright amongſt them is as a Thorn: ſpeak you Prophets of old if this be not true.</p>
+            <p>A Monarchial Army lifts up Mountains, and makes val<g ref="char:EOLhyphen"/>lies, <hi>viz.</hi> Advances Tyrants, and treads the Oppreſſed in the barren lanes of poverty.</p>
+            <p>But a <hi>Common-wealths</hi> Army is like <hi>John Baptiſt,</hi> who le<g ref="char:EOLhyphen"/>vels tha Mountains to the Valleys, pulls down the Tyrant, and lifts up the Oppreſſed; and ſo makes way for the ſpi<g ref="char:EOLhyphen"/>rit of Peace and Freedom to come in to rule and inherit the Earth.</p>
+            <p>And by this which hath been ſpoken, and Army may ſee wherein they may do well, and wherein they may do hurt. Therefore you Army of <hi>Englands</hi> Commonwealth look to it; the Enemy could not beat you in the field, but they may be too hard for you by policy in Councel, if you do not ſtick cloſe to ſee Common Freedom eſtabliſhed.</p>
+            <pb n="6" facs="tcp:117386:4"/>
+            <p> WHereas many of Our Privy Councel have with prepoſterous rigor, and unreaſonable ſeverity, endeavored to kindle and blow up thoſe horrid flames, the ſparks of Diſcontent, which want not the leaſt of pre-diſpoſed fewell for an abſolute Rebellion; and like ſome Cyclopick Monſters, whom nothing will ſerve to eat and drink, but the fleſh and bloud of Our own Subjects; in whoſe common welfare Our intereſt lies, as much as ſome mens doth in their perturbations: who think they cannot do well but in evil times; As for Our reſign<g ref="char:EOLhyphen"/>ing up the Crown and Government to the Prince Palatine, We are cleerly of another Judgment; And truly it is the unfeigned Deſire of Our Heart, to wear the Crown and Scepter no longer, then that His Glory may be Our End; and His Word Our Rule: And upon that Glorious Account We ſhall leave the ſucceſſe of all to God, who hath many many wayes to teach Us thoſe Rules of true Rea<g ref="char:EOLhyphen"/>ſon, and peaceable Wiſdom, which is from above, tending moſt to Gods glory, and his Churches good; which we think Our Self ſo much the more bound in Conſcience to attend with the moſt judi<g ref="char:EOLhyphen"/>cious zeal and care, by how much we eſteem the Church above the State; the glory of Chriſt above Our own; and the ſalvation of mens ſouls above
+<pb n="7" facs="tcp:117386:4"/>the preſervation of their Bodies and Eſtates.</p>
+            <p>Since the publiſhing of this Declaration, there hath been high Diſputes amongſt the Nobility; and ſome have declared for the King of Scots, deſire<g ref="char:EOLhyphen"/>ing a contract of Marriage, the calling in of his per<g ref="char:EOLhyphen"/>ſon, the day prefixed, and the general Attributes thereof to be ſolemnly declared, throughout the ci<g ref="char:EOLhyphen"/>ties of Heidelburgh, Switzaon, and other places: But others of the Nobility are re<g ref="char:EOLhyphen"/>ſolved to the contrary: However her Ma<g ref="char:EOLhyphen"/>jeſty hath declared, that ſhe deſires nothing more then the free Vote, and reall Conſent, of her People: touching which, many of the Nobility inclines to her Majeſties gracious will and pleaſure; but others again ſeem to be of a contrary judgment.</p>
+            <pb n="8" facs="tcp:117386:5"/>
+            <p> And now the Commoners of England in this Age of the world are riſen up in an Army, and have caſt out that Invaſion of the Duke of Normandy, and have won their Land and Liberties again by the Sword, if they do not ſuffer their Councels to be<g ref="char:EOLhyphen"/>fool them into ſlavery again upon a new accompt. For if ſo be that Kingly Authority be ſet up in your Laws again, King CHARLES hath conquered you and your Poſterity by policy, and won the field of you, though you have ſeemingly cut off his head. For the ſtrength of a King lies not in the viſible ap<g ref="char:EOLhyphen"/>pearance of his body, but in his Will, Laws, and Au<g ref="char:EOLhyphen"/>thority. But if you remove Kingly Government, and ſet up true and free Common-wealths Govern<g ref="char:EOLhyphen"/>ment, then you gain your Crown, and keep it, and leave peace to your Poſterity.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
